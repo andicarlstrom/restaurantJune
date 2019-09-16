@@ -5,3 +5,5 @@
 3. If you get stuck, STOP what you're doing and READ your code. This can be MASSIVELY clarifying.
 4. Check your console and FOCUS on the error message. 
 5. Google it! 
+6. Comment out code to narrow down the problem. 
+7. Once you've got something working, THEN try DRYing up your code. Remember, your job isn't to get it right the first time but to get it working. 
